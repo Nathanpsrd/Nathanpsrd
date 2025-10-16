@@ -32,7 +32,12 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git))
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+
 
 ---
 
